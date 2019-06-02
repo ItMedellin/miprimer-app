@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <h1>Mi primera aplicación</h1>
         <p>
-          Esta es mi primera aplicación en React, está padrisimo!. </p>
+          Esta es mi primera aplicación en React, está padrisimo!</p>
       </header>
     </div>
   );
